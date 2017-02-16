@@ -1,0 +1,18 @@
+{
+  "name": "json-g",
+  "version": "0.0.1",
+  "description": "Inefficient JSON images",
+  "main": "index.js",
+  "author": "abalabahaha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abalabahaha/jsng/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abalabahaha/jsng.git"
+  },
+  "dependencies": {
+    "jimp": "^0.2.27"
+  }
+}
